@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "The Iceman Tapes: Converstaions with a killer",
+      "image": "https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/7Es8Fz5wUESIRIGviB3u8wB4tFD.jpg",
+      "rating": 7.6,
+      "description": "Richard Kuklinski was a man who was dedicated to his wife and children, but he was also responsible for brutally murdering more than 100 individuals. This documentary presents an intense and unsettling interview with Kuklinski, which was filmed inside the prison where he is currently serving two back-to-back life sentences for his numerous killings."
+    },
+    {
+      "id": 2,
+      "name": "I Love you, you Hate me",
+      "image": "https://www.who2.com/wp-content/uploads/2015/09/barney-the-dinosaur.jpg",
+      "rating": 7.1,
+      "description": "Follow Barney the dinosaur's furious reaction and what he says about the human need to hate. Something in American society was broken and never came back, or is it just who we were all along?"
+    },
+    {
+      "id": 3,
+      "name": "House of Hammer",
+      "image": "https://variety.com/wp-content/uploads/2022/08/House-of-Hammer.jpg?w=681&h=383&crop=1",
+      "rating": 5.8,
+      "description": "A shocking Hollywood scandal rips open the Hammer family's perfect façade - from rape allegations against Armie Hammer to years of deceit at the hands of his great-grandfather, the family's dark secrets finally come to light."
+    },
+    {
+      "id": 4,
+      "name": "The Murders Before the Marathon",
+      "image": "https://resizing.flixster.com/Fk3H30xtLsU7PzwX1LepJskAu5g=/206x305/v2/https://flxt.tmsimg.com/assets/p22823393_b_v13_aa.jpg",
+      "rating": 6,
+      "description": "Investigative journalist Susan Zalkind explores the possible connection between a triple homicide and the Boston Marathon bombing."
+    },
+    {
+      "id": 5,
+      "name": "The Murder of Gabby Petito",
+      "image": "https://www.pennlive.com/resizer/qTPwpO3cUy2t-NSbC2irS5qICvM=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QDLV7CPPVZCAFIM4VYP2E3KEA4.png",
+      "rating": 6.3,
+      "description": "Examines Gabby's life through the curated lens she created and immerses the viewer in the world of social-media sleuthing that was crucial to the case."
+    },
+    {
+      "id": 6,
+      "name": "Manifesto of a Serial Killer",
+      "image": "https://resizing.flixster.com/FzmyAFfB4ouIhptCgtijSg2Yd0o=/206x305/v2/https://flxt.tmsimg.com/assets/p23594400_b_v13_aa.jpg",
+      "rating": 7.3,
+      "description": "One woman's heartache and determination to find her missing brother leads to the stunning discovery of one of the most chilling serial killer cases in history. In a riveting character-led narrative full of unimaginable twists and turns normally reserved for fiction, detectives discover two depraved men who killed at least 25 people in pursuit of their macabre sexual fantasy to enslave young women at a remote cabin in the woods and documented their horrifying crimes. All these years later, mystery still swirls around the facts of this case and the possible involvement of a third person whose story the show will seek to uncover."
+    },
+    {
+      "id": 7,
+      "name": "The Cheshire Murders",
+      "image": "https://donttellnetflix.com/wp-content/uploads/2020/02/hIRLUvnXkv7ubp9SNM3QWznZaKm.jpg",
+      "rating": 4.5,
+      "description": "In the early-morning hours of July 23, 2007, in Cheshire, Conn., ex-convicts Steven Hayes and Joshua Komisarjevsky broke into the family home of Dr. William Petit, his wife, Jennifer Hawke-Petit, and their daughters, Michaela, 11, and Hayley, 17. Dr. Petit was beaten and tied to a pole in the basement. The three women were bound in their bedrooms while the men ransacked the house. The brutal ordeal continued throughout the morning, ending with rape, arson and a horrific triple homicide."
+    },
+    {
+      "id": 8,
+      "name": "God forbid: The Sex scandal that brought down a dynasty",
+      "image": "https://i.ytimg.com/vi/-9TFjf0PXmg/maxresdefault.jpg",
+      "rating": 6.8,
+      "description": "Exploring the private life of evangelical Christian leader Jerry Falwell Jr and the scandal that led to his downfall."
+    },
+    {
+      "id": 9,
+      "name": "Mommy Dead and Dearest",
+      "image": "https://resizing.flixster.com/nVoWwHlY1_BRLDjG4EHHnMEhsng=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/731/603/MommyDeadandDearest_Trailer1.jpg",
+      "rating": 7.4,
+      "description": "Mommy Dead and Dearest is a 2017 American documentary film directed by Erin Lee Carr about the murder of Dee Dee Blanchard, for which her daughter, Gypsy Rose Blanchard, and Gypsy's boyfriend, Nicholas Godejohn, pled guilty and were convicted, respectively. It debuted on HBO on May 16, 2017."
+    },
+    {
+      "id": 10,
+      "name": "American Murder: The family Next door",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 1,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "image": "https://example.com/product-b.jpg",
+      "rating": 3.8,
+      "description": "Pellentesque id massa id dui pretium congue. Donec at velit eget sapien feugiat vestibulum vel in ex."
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "image": "https://example.com/product-c.jpg",
+      "rating": 4.9,
+      "description": "Etiam auctor magna tellus, ut sagittis sapien euismod vitae. Morbi commodo nulla eget purus commodo, sed facilisis dolor tristique."
+    },
+    {
+      "id": 4,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 5,
+      "name": "Product B",
+      "image": "https://example.com/product-b.jpg",
+      "rating": 3.8,
+      "description": "Pellentesque id massa id dui pretium congue. Donec at velit eget sapien feugiat vestibulum vel in ex."
+    },
+    {
+      "id": 6,
+      "name": "Product C",
+      "image": "https://example.com/product-c.jpg",
+      "rating": 4.9,
+      "description": "Etiam auctor magna tellus, ut sagittis sapien euismod vitae. Morbi commodo nulla eget purus commodo, sed facilisis dolor tristique."
+    },
+    {
+      "id": 7,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 8,
+      "name": "Product B",
+      "image": "https://example.com/product-b.jpg",
+      "rating": 3.8,
+      "description": "Pellentesque id massa id dui pretium congue. Donec at velit eget sapien feugiat vestibulum vel in ex."
+    },
+    {
+      "id": 9,
+      "name": "Product C",
+      "image": "https://example.com/product-c.jpg",
+      "rating": 4.9,
+      "description": "Etiam auctor magna tellus, ut sagittis sapien euismod vitae. Morbi commodo nulla eget purus commodo, sed facilisis dolor tristique."
+    },
+    {
+      "id": 10,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 1,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "image": "https://example.com/product-b.jpg",
+      "rating": 3.8,
+      "description": "Pellentesque id massa id dui pretium congue. Donec at velit eget sapien feugiat vestibulum vel in ex."
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "image": "https://example.com/product-c.jpg",
+      "rating": 4.9,
+      "description": "Etiam auctor magna tellus, ut sagittis sapien euismod vitae. Morbi commodo nulla eget purus commodo, sed facilisis dolor tristique."
+    },
+    {
+      "id": 4,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 5,
+      "name": "Product B",
+      "image": "https://example.com/product-b.jpg",
+      "rating": 3.8,
+      "description": "Pellentesque id massa id dui pretium congue. Donec at velit eget sapien feugiat vestibulum vel in ex."
+    },
+    {
+      "id": 6,
+      "name": "Product C",
+      "image": "https://example.com/product-c.jpg",
+      "rating": 4.9,
+      "description": "Etiam auctor magna tellus, ut sagittis sapien euismod vitae. Morbi commodo nulla eget purus commodo, sed facilisis dolor tristique."
+    },
+    {
+      "id": 7,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    },
+    {
+      "id": 8,
+      "name": "Product B",
+      "image": "https://example.com/product-b.jpg",
+      "rating": 3.8,
+      "description": "Pellentesque id massa id dui pretium congue. Donec at velit eget sapien feugiat vestibulum vel in ex."
+    },
+    {
+      "id": 9,
+      "name": "Product C",
+      "image": "https://example.com/product-c.jpg",
+      "rating": 4.9,
+      "description": "Etiam auctor magna tellus, ut sagittis sapien euismod vitae. Morbi commodo nulla eget purus commodo, sed facilisis dolor tristique."
+    },
+    {
+      "id": 10,
+      "name": "Product A",
+      "image": "https://example.com/product-a.jpg",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan magna non sollicitudin vulputate."
+    }
+
+    ]
+}
+  

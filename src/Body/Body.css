@@ -1,0 +1,107 @@
+/* Card styles */
+.card {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+  
+  .card-text {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #6c757d;
+  }
+  
+  /* Filter styles */
+  .filter {
+    margin-bottom: 20px;
+  }
+  
+  .filter label {
+    font-size: 1.25rem;
+    margin-right: 10px;
+    color: #6c757d;
+  }
+  
+  .filter select {
+    font-size: 1.25rem;
+    padding: 5px;
+    color: #6c757d;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  /* Row styles */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    justify-content: center;
+  }
+  
+  /* Column styles */
+  .col-md-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    padding: 0 15px;
+    margin-bottom: 20px;
+  }
+  
+  /* Accordion styles */
+  .accordion-button {
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    color: #212529;
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding: 1.25rem;
+    text-align: left;
+    position: relative;
+  }
+  
+  .accordion-button:hover {
+    background-color: #f1f2f4;
+  }
+  
+  .accordion-button:after {
+    display: inline-block;
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    background: url('https://img.icons8.com/flat_round/64/000000/expand-arrow--v2.png') no-repeat center center;
+    background-size: cover;
+    transform: translateY(-50%);
+    transition: transform 0.3s ease;
+  }
+  
+  .accordion-button.collapsed:after {
+    transform: translateY(-50%) rotate(180deg);
+  }
+  
+  .accordion-body {
+    background-color: #f1f2f4;
+    border-radius: 0 0 8px 8px;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    font-size: 1.25rem;
+    padding: 1.25rem;
+  }
+  
